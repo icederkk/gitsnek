@@ -31,6 +31,7 @@ Game::Game( MainWindow& wnd )
 	fruit( rng, brd, snek )
 {
 	snek.Init({ 5, 5 });
+	//aa;lsfdjl aldfkjalsdflak 
 }
 
 void Game::Go()
